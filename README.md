@@ -74,7 +74,3 @@ You should put considerable effort into the design (comparable to a lab implemen
   * Could you easily add an additional store, or handle a chain of stores?
   
 Your design can go beyond the scope of these specifications (and you won’t need to implement extensions). Thinking of possible extensions in advance often improves the design.
-
-Bring a hardcopy of your design to class on Feb. 29. We will have in-class design reviews and then your hardcopy will be turned in. No softcopy will be necessary.
-
-Implementation Requirements: All the rules, submission requirements, and evaluation criteria are the same as the assignment 1.
